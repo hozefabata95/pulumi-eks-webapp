@@ -1,0 +1,15 @@
+{
+    "name": "hozefa-eks-webapp",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.71.0",
+        "@pulumi/awsx": "^2.0.2",
+        "@pulumi/eks": "^3.8.1",
+        "@pulumi/kubernetes": "^4.21.1",
+        "@pulumi/pulumi": "^3.113.0"
+    }
+}

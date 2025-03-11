@@ -1,0 +1,3 @@
+name: ekswebdeployer
+runtime: nodejs
+description: A configurable web app running in Kubernetes on AWS EKS.
